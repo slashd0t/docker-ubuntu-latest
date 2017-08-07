@@ -1,1 +1,1 @@
-# docker-ubuntu-latest
+# dockerize ubuntu/xenial image
